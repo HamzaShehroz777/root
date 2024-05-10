@@ -14,10 +14,10 @@
 $
 
 # Command Line History (newest to oldest):
-:q
-|2,0,1715343338,,"q"
 :x
-|2,0,1715337745,,"x"
+|2,0,1715349215,,"x"
+:q
+|2,0,1715349198,,"q"
 :
 |2,0,1715337740,,""
 :q!
@@ -71,230 +71,245 @@ $
 |3,0,36,0,1,0,1715080073,";"
 
 # File marks:
-'0  1  0  ~/.wget-hsts
-|4,48,1,0,1715343338,"~/.wget-hsts"
-'1  6  0  ~/Dockerfile
-|4,49,6,0,1715337745,"~/Dockerfile"
-'2  7  12  ~/Dockerfile
-|4,50,7,12,1715337391,"~/Dockerfile"
-'3  7  12  ~/Dockerfile
-|4,51,7,12,1715337391,"~/Dockerfile"
-'4  3  5  ~/Dockerfile
-|4,52,3,5,1715337334,"~/Dockerfile"
-'5  3  5  ~/Dockerfile
-|4,53,3,5,1715337334,"~/Dockerfile"
-'6  3  5  ~/Dockerfile
-|4,54,3,5,1715337334,"~/Dockerfile"
-'7  3  5  ~/Dockerfile
-|4,55,3,5,1715337334,"~/Dockerfile"
-'8  7  10  ~/Dockerfile
-|4,56,7,10,1715337178,"~/Dockerfile"
-'9  7  10  ~/Dockerfile
-|4,57,7,10,1715337178,"~/Dockerfile"
+'0  1  1  ~/.gitignore
+|4,48,1,1,1715349215,"~/.gitignore"
+'1  1  1  ~/.gitignore
+|4,49,1,1,1715349198,"~/.gitignore"
+'2  5  0  ~/.gitconfig
+|4,50,5,0,1715349189,"~/.gitconfig"
+'3  1  0  ~/.igno
+|4,51,1,0,1715349164,"~/.igno"
+'4  1  1  ~/.gitignore
+|4,52,1,1,1715348428,"~/.gitignore"
+'5  1  1  ~/.gitignore
+|4,53,1,1,1715348428,"~/.gitignore"
+'6  1  0  ~/.wget-hsts
+|4,54,1,0,1715343338,"~/.wget-hsts"
+'7  6  0  ~/Dockerfile
+|4,55,6,0,1715337745,"~/Dockerfile"
+'8  7  12  ~/Dockerfile
+|4,56,7,12,1715337391,"~/Dockerfile"
+'9  7  12  ~/Dockerfile
+|4,57,7,12,1715337391,"~/Dockerfile"
 
 # Jumplist (newest first):
+-'  1  1  ~/.gitignore
+|4,39,1,1,1715349215,"~/.gitignore"
+-'  1  1  ~/.gitignore
+|4,39,1,1,1715349198,"~/.gitignore"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1715349189,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1715349189,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1715349189,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1715349189,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1715349186,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1715349186,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1715349186,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1715349186,"~/.gitconfig"
+-'  1  0  ~/.igno
+|4,39,1,0,1715349164,"~/.igno"
+-'  1  0  ~/.igno
+|4,39,1,0,1715349164,"~/.igno"
+-'  1  0  ~/.igno
+|4,39,1,0,1715349164,"~/.igno"
+-'  1  0  ~/.igno
+|4,39,1,0,1715349164,"~/.igno"
+-'  1  0  ~/.igno
+|4,39,1,0,1715349164,"~/.igno"
+-'  1  0  ~/.igno
+|4,39,1,0,1715349164,"~/.igno"
+-'  1  0  ~/.igno
+|4,39,1,0,1715349164,"~/.igno"
+-'  1  0  ~/.igno
+|4,39,1,0,1715349164,"~/.igno"
+-'  1  1  ~/.gitignore
+|4,39,1,1,1715348428,"~/.gitignore"
+-'  1  1  ~/.gitignore
+|4,39,1,1,1715348428,"~/.gitignore"
+-'  1  1  ~/.gitignore
+|4,39,1,1,1715348428,"~/.gitignore"
+-'  1  1  ~/.gitignore
+|4,39,1,1,1715348428,"~/.gitignore"
+-'  1  0  ~/.wget-hsts
+|4,39,1,0,1715343338,"~/.wget-hsts"
+-'  1  0  ~/.wget-hsts
+|4,39,1,0,1715343338,"~/.wget-hsts"
+-'  1  0  ~/.wget-hsts
+|4,39,1,0,1715343338,"~/.wget-hsts"
+-'  1  0  ~/.wget-hsts
+|4,39,1,0,1715343338,"~/.wget-hsts"
+-'  1  0  ~/.wget-hsts
+|4,39,1,0,1715343338,"~/.wget-hsts"
+-'  1  0  ~/.wget-hsts
+|4,39,1,0,1715343338,"~/.wget-hsts"
+-'  1  0  ~/.wget-hsts
+|4,39,1,0,1715343338,"~/.wget-hsts"
+-'  1  0  ~/.wget-hsts
+|4,39,1,0,1715343338,"~/.wget-hsts"
+-'  1  0  ~/.wget-hsts
+|4,39,1,0,1715343338,"~/.wget-hsts"
+-'  1  0  ~/.wget-hsts
+|4,39,1,0,1715343338,"~/.wget-hsts"
+-'  1  0  ~/.wget-hsts
+|4,39,1,0,1715343338,"~/.wget-hsts"
+-'  1  0  ~/.wget-hsts
+|4,39,1,0,1715343338,"~/.wget-hsts"
+-'  1  0  ~/.wget-hsts
+|4,39,1,0,1715343338,"~/.wget-hsts"
+-'  1  0  ~/.wget-hsts
+|4,39,1,0,1715343338,"~/.wget-hsts"
+-'  1  0  ~/.wget-hsts
+|4,39,1,0,1715343338,"~/.wget-hsts"
+-'  1  0  ~/.wget-hsts
+|4,39,1,0,1715343338,"~/.wget-hsts"
+-'  1  0  ~/.wget-hsts
+|4,39,1,0,1715343338,"~/.wget-hsts"
+-'  1  0  ~/.wget-hsts
+|4,39,1,0,1715343338,"~/.wget-hsts"
+-'  1  0  ~/.wget-hsts
+|4,39,1,0,1715343338,"~/.wget-hsts"
+-'  1  0  ~/.wget-hsts
+|4,39,1,0,1715343338,"~/.wget-hsts"
+-'  1  0  ~/.wget-hsts
+|4,39,1,0,1715343338,"~/.wget-hsts"
+-'  1  0  ~/.wget-hsts
+|4,39,1,0,1715343338,"~/.wget-hsts"
+-'  1  0  ~/.wget-hsts
+|4,39,1,0,1715343338,"~/.wget-hsts"
+-'  1  0  ~/.wget-hsts
+|4,39,1,0,1715343338,"~/.wget-hsts"
+-'  1  0  ~/.wget-hsts
+|4,39,1,0,1715343338,"~/.wget-hsts"
+-'  1  0  ~/.wget-hsts
+|4,39,1,0,1715343338,"~/.wget-hsts"
+-'  1  0  ~/.wget-hsts
+|4,39,1,0,1715343338,"~/.wget-hsts"
+-'  1  0  ~/.wget-hsts
+|4,39,1,0,1715343338,"~/.wget-hsts"
+-'  1  0  ~/.wget-hsts
+|4,39,1,0,1715343338,"~/.wget-hsts"
+-'  1  0  ~/.wget-hsts
+|4,39,1,0,1715343338,"~/.wget-hsts"
+-'  1  0  ~/.wget-hsts
+|4,39,1,0,1715343338,"~/.wget-hsts"
 -'  1  0  ~/.wget-hsts
 |4,39,1,0,1715343338,"~/.wget-hsts"
 -'  6  0  ~/Dockerfile
 |4,39,6,0,1715337745,"~/Dockerfile"
 -'  6  0  ~/Dockerfile
 |4,39,6,0,1715337745,"~/Dockerfile"
--'  7  12  ~/Dockerfile
-|4,39,7,12,1715337682,"~/Dockerfile"
--'  7  12  ~/Dockerfile
-|4,39,7,12,1715337682,"~/Dockerfile"
--'  7  12  ~/Dockerfile
-|4,39,7,12,1715337391,"~/Dockerfile"
--'  7  12  ~/Dockerfile
-|4,39,7,12,1715337391,"~/Dockerfile"
--'  3  5  ~/Dockerfile
-|4,39,3,5,1715337387,"~/Dockerfile"
--'  3  5  ~/Dockerfile
-|4,39,3,5,1715337387,"~/Dockerfile"
--'  3  5  ~/Dockerfile
-|4,39,3,5,1715337387,"~/Dockerfile"
--'  3  5  ~/Dockerfile
-|4,39,3,5,1715337387,"~/Dockerfile"
--'  3  5  ~/Dockerfile
-|4,39,3,5,1715337334,"~/Dockerfile"
--'  3  5  ~/Dockerfile
-|4,39,3,5,1715337334,"~/Dockerfile"
--'  7  10  ~/Dockerfile
-|4,39,7,10,1715337326,"~/Dockerfile"
--'  7  10  ~/Dockerfile
-|4,39,7,10,1715337326,"~/Dockerfile"
--'  7  10  ~/Dockerfile
-|4,39,7,10,1715337178,"~/Dockerfile"
--'  7  10  ~/Dockerfile
-|4,39,7,10,1715337178,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1715336984,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1715336984,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1715336984,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1715336984,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1715336984,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1715336984,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1715336984,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1715336984,"~/Dockerfile"
--'  19  26  /etc/resolv.conf
-|4,39,19,26,1715080343,"/etc/resolv.conf"
--'  19  26  /etc/resolv.conf
-|4,39,19,26,1715080343,"/etc/resolv.conf"
--'  19  26  /etc/resolv.conf
-|4,39,19,26,1715080343,"/etc/resolv.conf"
--'  19  26  /etc/resolv.conf
-|4,39,19,26,1715080343,"/etc/resolv.conf"
--'  19  26  /etc/resolv.conf
-|4,39,19,26,1715080343,"/etc/resolv.conf"
--'  19  26  /etc/resolv.conf
-|4,39,19,26,1715080343,"/etc/resolv.conf"
--'  19  26  /etc/resolv.conf
-|4,39,19,26,1715080343,"/etc/resolv.conf"
--'  19  26  /etc/resolv.conf
-|4,39,19,26,1715080343,"/etc/resolv.conf"
--'  19  26  /etc/resolv.conf
-|4,39,19,26,1715080343,"/etc/resolv.conf"
--'  19  26  /etc/resolv.conf
-|4,39,19,26,1715080343,"/etc/resolv.conf"
--'  19  26  /etc/resolv.conf
-|4,39,19,26,1715080343,"/etc/resolv.conf"
--'  19  26  /etc/resolv.conf
-|4,39,19,26,1715080343,"/etc/resolv.conf"
--'  19  26  /etc/resolv.conf
-|4,39,19,26,1715080343,"/etc/resolv.conf"
--'  19  26  /etc/resolv.conf
-|4,39,19,26,1715080343,"/etc/resolv.conf"
--'  19  26  /etc/resolv.conf
-|4,39,19,26,1715080343,"/etc/resolv.conf"
--'  19  26  /etc/resolv.conf
-|4,39,19,26,1715080343,"/etc/resolv.conf"
--'  19  26  /etc/resolv.conf
-|4,39,19,26,1715080343,"/etc/resolv.conf"
--'  19  26  /etc/resolv.conf
-|4,39,19,26,1715080343,"/etc/resolv.conf"
--'  19  26  /etc/resolv.conf
-|4,39,19,26,1715080343,"/etc/resolv.conf"
--'  19  26  /etc/resolv.conf
-|4,39,19,26,1715080343,"/etc/resolv.conf"
--'  19  26  /etc/resolv.conf
-|4,39,19,26,1715080343,"/etc/resolv.conf"
--'  19  26  /etc/resolv.conf
-|4,39,19,26,1715080343,"/etc/resolv.conf"
--'  19  26  /etc/resolv.conf
-|4,39,19,26,1715080343,"/etc/resolv.conf"
--'  19  26  /etc/resolv.conf
-|4,39,19,26,1715080343,"/etc/resolv.conf"
--'  19  26  /etc/resolv.conf
-|4,39,19,26,1715080343,"/etc/resolv.conf"
--'  19  26  /etc/resolv.conf
-|4,39,19,26,1715080343,"/etc/resolv.conf"
--'  19  26  /etc/resolv.conf
-|4,39,19,26,1715080343,"/etc/resolv.conf"
--'  19  26  /etc/resolv.conf
-|4,39,19,26,1715080343,"/etc/resolv.conf"
--'  19  26  /etc/resolv.conf
-|4,39,19,26,1715080343,"/etc/resolv.conf"
--'  19  26  /etc/resolv.conf
-|4,39,19,26,1715080343,"/etc/resolv.conf"
--'  19  26  /etc/resolv.conf
-|4,39,19,26,1715080343,"/etc/resolv.conf"
--'  19  26  /etc/resolv.conf
-|4,39,19,26,1715080343,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080297,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080297,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080297,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080297,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080297,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080297,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080297,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080297,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080297,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080297,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080297,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080297,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080297,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080297,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080297,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080297,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080297,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080297,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080297,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080297,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080297,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080297,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080297,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080297,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080297,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080297,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080297,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080297,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080297,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080297,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080297,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080297,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080276,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080276,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080276,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080276,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080276,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080276,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080276,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080276,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080276,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080276,"/etc/resolv.conf"
--'  21  19  /etc/resolv.conf
-|4,39,21,19,1715080276,"/etc/resolv.conf"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
+-'  6  0  ~/Dockerfile
+|4,39,6,0,1715337745,"~/Dockerfile"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1715349214	0
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	1
+
+> ~/.gitconfig
+	*	1715349188	0
+	"	5	0
+
+> ~/.igno
+	*	1715349163	0
+	"	1	0
 
 > ~/.wget-hsts
 	*	1715343335	0
